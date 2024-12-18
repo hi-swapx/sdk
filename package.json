@@ -8,7 +8,6 @@
 	"dependencies": {
 		"@swapx/sdk-core": "workspace:^",
 		"@swapx/v2-sdk": "workspace:^",
-		"@swapx/v3-periphery": "workspace:^",
 		"@swapx/v3-sdk": "workspace:^"
 	}
 

@@ -1,6 +1,6 @@
 import { BigintIsh, Token } from '@swapx/sdk-core'
 import { Interface } from '@ethersproject/abi'
-import ISelfPermit from '@swapx/v3-periphery/artifacts/contracts/interfaces/ISelfPermit.sol/ISelfPermit.json'
+import ISelfPermit from '@uniswap/v3-periphery/artifacts/contracts/interfaces/ISelfPermit.sol/ISelfPermit.json'
 import { toHex } from './utils'
 
 export interface StandardPermitArguments {
